@@ -1,4 +1,4 @@
-<h2>Back-End Developer 꾸준히 성장하는 개발자</h2>
+<h2>Back-End Developer 꾸준히 성장하는 개발자 노현우입니다</h2>
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
