@@ -1,4 +1,4 @@
-<h2>Back-End Developer 스펀지 같은 개발자 노현우입니다</h2>
+<h2><em>Back-End Developer</em>, 스펀지 같은 개발자 노현우입니다</h2>
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=SPRING&logoColor=white"/>
